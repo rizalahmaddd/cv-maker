@@ -1,0 +1,11 @@
+node_modules
+dist
+dev-dist
+*.local
+.DS_Store
+.playwright-mcp
+.wrangler
+*.tsbuildinfo
+
+# Local working notes
+docs/plan.md
